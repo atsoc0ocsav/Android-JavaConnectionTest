@@ -1,4 +1,4 @@
-package pt.iscte.biomachineslab.android_javaconnection_android_side;
+package pt.iscte.biomachineslab.androidside;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
